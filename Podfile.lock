@@ -1,0 +1,20 @@
+PODS:
+  - Nuke (7.5.2)
+  - SwiftLint (0.49.1)
+
+DEPENDENCIES:
+  - Nuke
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Nuke
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Nuke: 0350d346a688426e8f2331253ef28dc2fc4f6178
+  SwiftLint: 32ee33ded0636d0905ef6911b2b67bbaeeedafa5
+
+PODFILE CHECKSUM: cf67184df93ded9ac001a99c56211e9954ba1f53
+
+COCOAPODS: 1.11.3
